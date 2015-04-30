@@ -1,4 +1,4 @@
-__author__ = 'elaxman'
+__author__ = 'Solitory Coder'
 
 print " This is Hello World"
-print "Age: ", 16 
+print "Age: ", 16
